@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-// 🔹 Type define kar
+// 🔹 Type define kar.
 type ApiData = {
   name: string;
   skill: string;
